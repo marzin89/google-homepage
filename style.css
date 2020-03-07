@@ -1,0 +1,106 @@
+#navbar-top {
+position: absolute;
+right: 30px;
+top: 30px;
+}
+.navbar-top {
+color: black;
+text-decoration: none;
+}
+
+#Bilder, #Google-apps, #Logga-in {
+margin-left: 30px;
+}
+#Logga-in {
+border-style: solid;
+color: white;
+border-color: #007fff;
+background-color: #007fff;
+padding: 10px; 
+}
+#Google-apps {
+width: 30px;
+height: 30px;
+border: none;
+vertical-align: middle;
+background-color: white;
+background-image: url(/home/marco/Programmering/the_odin_project/google-homepage/Gray_square.png);
+background-size: 8px 8px;
+background-repeat: space space;
+}
+#Google-apps:hover {
+color: black;
+}
+a:hover {
+text-decoration: underline;
+}
+ul {
+list-style-type: none;
+font-size: 16px;
+}
+li {
+display: inline-block;
+}
+#parent-div {
+text-align: center;
+margin-top: 50%;
+margin-bottom: 50%;
+}
+img {
+margin-bottom: 0.75cm;
+}
+#text {
+width: 15cm;
+height: 1cm;
+border-color: #dedede;
+background: url(https://www.gstatic.com/inputtools/images/tia.png);
+background-repeat: no-repeat;
+background-size: 19px 11px;
+background-position: 540px 15px;
+}
+#parent-div2 {
+margin-top: 0.75cm;
+display: block;
+}input {
+height: 1cm;
+}
+#button1, #button2 {
+font-size: 16px;
+width: 4cm;
+background-color: #dedede;
+color: gray;
+}
+#button1 {
+margin-right: 0.2cm;
+}
+#navbar-bottom {
+position: absolute;
+margin-bottom: 0;
+right: 0;
+left: 0;
+border-style: solid;
+border-width: 0.5px;
+border-color: #dedede;
+background-color: #ececec;
+}
+#list-items-1-4 {
+left: 30px;
+}
+#list-items-5-7 {
+position: absolute;
+right: 30px;
+top: 15px;
+}
+#Företagslösningar, #Om, #Så-fungerar-Sök {
+margin-left: 30px;
+}
+#Annonsering, #Företagslösningar, #Om, #Så-fungerar-Sök, #Sekretess, #Villkor, #Inställningar {
+color: gray;
+}
+#Sekretess, #Villkor {
+margin-right: 30px;
+} 
+.navbar-bottom {
+color: black;
+text-decoration: none;
+}

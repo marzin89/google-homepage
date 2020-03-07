@@ -1,1 +1,1 @@
-# google-homepage
+This is a simple webpage in order to learn HTML and CSS basics. This project is part of The Odin Project Web Development Curriculum. It is based on the Swedish version since I live in Sweden. I didn't manage to get all the colors and spaces exactly right, but since this is my first HTML/CSS project, I guess it's still decent.# google-homepage
